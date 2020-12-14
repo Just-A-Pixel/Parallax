@@ -1,0 +1,77 @@
+body{
+  margin:0;
+  font-family: Cambria;
+  font-weight: 400;
+  font-family: sans-serif;
+  letter-spacing: 8px;
+}
+
+.Parallax{
+  color: aliceblue;
+  box-sizing: border-box;
+  font-size: 24px;
+  background-color: rgb(70, 70, 73);
+  float: left;
+  margin-left: 40%;
+  margin-top: 23%;
+  margin-bottom: 0;
+  padding:10px;
+  width: auto;
+  border-style: solid;
+  text-align: center;
+}
+
+
+.img1,.img2,.img3{
+  background-repeat: no-repeat;
+  height: 800px;
+  margin: 0;
+  opacity: 0.7;
+  background-attachment: fixed;
+}
+
+.img1{
+  background-image: url(photography-of-roadway-during-dusk-1034662.jpg);
+  background-position: center;
+}
+
+.img2{
+  background-image: url(raised-building-frame-169647.jpg);
+  height: 400px;
+}
+
+.img3{
+  background-image: url(red-neon-signage-3389817.jpg);
+  height: 400px;
+}
+
+.text{
+  color: rgb(247, 250, 252);
+  font-size: 24px;
+  background-color: rgba(70, 70, 73, 0);
+  float: left;
+  margin-left: 44%;
+  margin-top: 180px;
+  margin-bottom: 0;
+  padding:10px;
+  width: auto;
+  text-align: center;
+}
+
+h1{
+  text-align: left;
+}
+
+.sec2, .sec1{
+  text-align: center;
+  background-color: rgba(12, 11, 11, 0.925);
+  margin-top: 0;
+  padding-top: 26px;
+  padding-bottom: 50px;
+  color: aliceblue;
+}
+
+.sec1{
+  background-color: aliceblue;
+  color: black;
+}
