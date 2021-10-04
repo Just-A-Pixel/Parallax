@@ -3,7 +3,7 @@ body{
   font-family: Cambria;
   font-weight: 400;
   font-family: sans-serif;
-  letter-spacing: 8px;
+  letter-spacing: 5px;
 }
 
 .Parallax{
@@ -59,7 +59,7 @@ body{
 }
 
 h1{
-  text-align: left;
+  text-align: center;
 }
 
 .sec2, .sec1{
